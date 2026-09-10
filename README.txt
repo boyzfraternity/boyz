@@ -1,13 +1,41 @@
-BOYZ WEBSITE — MIGRATION BASE
+BOYZ — OFFICIAL WEBSITE
 
-Identidade migrada de BEASTS para BOYZ, preservando a estrutura, navegação e funcionamento do site anterior e substituindo a linguagem visual por uma direção soft-luxury / it-boy.
+PRETTY. POPULAR. PROBLEMATIC.
 
-Marca principal: boyz
-Tom: pretty, popular, problematic.
-Paleta: Ice Blue, Sand, Frosted Lavender, Silver, White, Dual Tone, Black & Ice.
-Tipografia da marca: Ballet / Allura; textos editoriais: Cormorant Garamond; interface: Inter.
+Official BOYZ fraternity website.
 
-Estrutura: Home, Lore, Concept, The Boyz, The Archive, Rules, Recruitment/Application.
-Hierarquia em transição: New Boyz, Boyz, Alphas e Circle.
+BOYZ is a male fraternity built around personality, presence, ambition, style, individuality and brotherhood. The identity combines soft luxury, polished editorial design and the deliberately fresh, confident attitude of the boys who wear the name.
 
-Nota: os assets antigos da marca BEASTS foram retirados da apresentação principal. O wordmark e o ícone agora são tipográficos para manter o mesmo "b" da própria palavra boyz.
+BRAND
+- Primary wordmark: boyz
+- Primary icon: the b from the same wordmark
+- No by MONSTERS association
+- Direction: soft luxury / it-boy / polished editorial
+- Core line: PRETTY. POPULAR. PROBLEMATIC.
+
+VISUAL SYSTEM
+- Ice Blue
+- Sand
+- Frosted Lavender
+- Silver
+- White
+- Dual Tone
+- Black & Ice
+- Ballet / Allura for the signature
+- Cormorant Garamond for editorial display
+- Inter for interface
+
+SITE STRUCTURE
+- Home
+- Lore
+- Concept
+- The Boyz
+- The Archive
+- Rules
+- Recruitment / Application
+
+HIERARCHY
+New Boyz · Boyz · Alphas · Circle
+
+APPLICATION
+The recruitment application lives in application.html and uses Web3Forms for asynchronous submissions.
