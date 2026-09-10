@@ -1,13 +1,18 @@
-BOYZ — OFFICIAL WEBSITE
+BOYZ — MASTER STRUCTURE TEST
 
-PRETTY. POPULAR. PROBLEMATIC.
+This build uses the finalized BEASTS V5 website as the structural master.
+Only the image assets that existed in that master were replaced with official BOYZ image assets.
 
-Official BOYZ fraternity website using the supplied final BOYZ chrome, ice and lilac logo artwork.
+Preserved from BEASTS V5:
+- HTML structure and section order
+- CSS/layout/spacing/animations
+- Placeholder image areas
+- Joe and Loy profile structure
+- Archive, Rules and Application structure
+- Web3Forms application flow
+- No new badge/"Botton" image elements
 
-Pages: Home, Lore, Concept, The Boyz, The Archive, Rules, Recruitment / Application.
-
-Brand assets:
-- logo-primary.png / logo-secondary.png
-- icon-primary.png / icon-secondary.png / icon-star.png
-
-Web3Forms is preserved for recruitment submissions.
+Official BOYZ image replacements used:
+- assets/logo-primary.png
+- assets/icon-primary.png
+- assets/boyz-favicon.png
