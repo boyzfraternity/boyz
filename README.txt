@@ -2,26 +2,13 @@ BOYZ — OFFICIAL WEBSITE
 
 PRETTY. POPULAR. PROBLEMATIC.
 
-Official BOYZ fraternity website.
+Official BOYZ fraternity website using the supplied final BOYZ chrome, ice and lilac logo artwork.
 
-IDENTITY
-- Wordmark: boyz
-- Primary icon: b
-- Direction: soft luxury / it-boy / polished editorial
-- Palette: Ice Blue, Sand, Frosted Lavender, Silver, White, Black & Ice
-- Typography: Ballet / Allura, Cormorant Garamond, Inter
+Pages: Home, Lore, Concept, The Boyz, The Archive, Rules, Recruitment / Application.
 
-SITE
-- Home
-- Lore
-- Concept
-- The Boyz
-- The Archive
-- Rules
-- Recruitment / Application
+Brand assets:
+- logo-primary.png / logo-secondary.png
+- icon-primary.png / icon-secondary.png / icon-star.png
+- badge-black*.png / badge-blue*.png / badge-lilac*.png
 
-HIERARCHY
-New Boyz · Boyz · Alphas · Circle
-
-APPLICATION
-Recruitment remains integrated through Web3Forms in application.html.
+Web3Forms is preserved for recruitment submissions.
