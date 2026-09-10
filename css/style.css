@@ -189,12 +189,12 @@ footer p{letter-spacing:.28em!important;opacity:.65!important}
 @media(max-width:900px){.brand-mark{font-size:34px!important}.hero-wordmark{font-size:clamp(90px,22vw,170px)!important}}
 @media(max-width:560px){.brand-mark{font-size:31px!important}.hero-wordmark{font-size:clamp(78px,25vw,145px)!important}.hero-center>p{margin-top:25px!important}}
 
-/* FINAL LOGO SCALE PASS */
+/* FINAL LOGO SCALE PASS — corrected text rendering */
 .brand{width:54px;height:54px;align-items:center;overflow:visible}
 .brand-mark{font-family:'Ballet',cursive!important;font-size:36px!important;line-height:1!important;letter-spacing:-.04em!important;transform:translateY(4px) scale(.82)!important;transform-origin:center!important}
 .brand-mark:after{right:-7px;top:0;font-size:6px}
 .hero-center{width:min(82vw,980px)}
-.hero-wordmark{font-family:'Ballet',cursive!important;font-size:clamp(100px,13vw,205px)!important;line-height:.72!important;letter-spacing:-.055em!important;transform:translateY(-.5vh)!important}
+.hero-wordmark{display:inline-block!important;font-family:'Ballet',cursive!important;font-size:clamp(100px,13vw,205px)!important;line-height:.72!important;letter-spacing:-.055em!important;transform:translateY(-.5vh)!important;background:linear-gradient(112deg,var(--chrome-dark) 3%,var(--chrome-light) 20%,var(--chrome-mid) 38%,#fff 51%,#8997a5 70%,#fff 84%,var(--chrome-dark) 100%)!important;-webkit-background-clip:text!important;background-clip:text!important;-webkit-text-fill-color:transparent!important;color:transparent!important;background-color:transparent!important;filter:drop-shadow(0 18px 34px rgba(79,103,133,.16))}
 .hero-center>p{margin-top:28px!important;font-size:8px!important;letter-spacing:.28em!important;opacity:.72!important}
 @media(max-width:900px){.brand-mark{font-size:34px!important}.hero-wordmark{font-size:clamp(90px,22vw,170px)!important}}
 @media(max-width:560px){.brand-mark{font-size:31px!important}.hero-wordmark{font-size:clamp(78px,25vw,145px)!important}.hero-center>p{margin-top:25px!important}}
