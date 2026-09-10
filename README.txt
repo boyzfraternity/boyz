@@ -4,28 +4,14 @@ PRETTY. POPULAR. PROBLEMATIC.
 
 Official BOYZ fraternity website.
 
-BOYZ is a male fraternity built around personality, presence, ambition, style, individuality and brotherhood. The identity combines soft luxury, polished editorial design and the deliberately fresh, confident attitude of the boys who wear the name.
-
-BRAND
-- Primary wordmark: boyz
-- Primary icon: the b from the same wordmark
-- No by MONSTERS association
+IDENTITY
+- Wordmark: boyz
+- Primary icon: b
 - Direction: soft luxury / it-boy / polished editorial
-- Core line: PRETTY. POPULAR. PROBLEMATIC.
+- Palette: Ice Blue, Sand, Frosted Lavender, Silver, White, Black & Ice
+- Typography: Ballet / Allura, Cormorant Garamond, Inter
 
-VISUAL SYSTEM
-- Ice Blue
-- Sand
-- Frosted Lavender
-- Silver
-- White
-- Dual Tone
-- Black & Ice
-- Ballet / Allura for the signature
-- Cormorant Garamond for editorial display
-- Inter for interface
-
-SITE STRUCTURE
+SITE
 - Home
 - Lore
 - Concept
@@ -38,4 +24,4 @@ HIERARCHY
 New Boyz · Boyz · Alphas · Circle
 
 APPLICATION
-The recruitment application lives in application.html and uses Web3Forms for asynchronous submissions.
+Recruitment remains integrated through Web3Forms in application.html.
