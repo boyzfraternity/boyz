@@ -9,6 +9,5 @@ Pages: Home, Lore, Concept, The Boyz, The Archive, Rules, Recruitment / Applicat
 Brand assets:
 - logo-primary.png / logo-secondary.png
 - icon-primary.png / icon-secondary.png / icon-star.png
-- badge-black*.png / badge-blue*.png / badge-lilac*.png
 
 Web3Forms is preserved for recruitment submissions.
