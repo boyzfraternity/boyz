@@ -1,10 +1,13 @@
-BEASTS WEBSITE V4 ,  COMPLETE
+BOYZ WEBSITE — MIGRATION BASE
 
-Estrutura consolidada do site BEASTS.
+Identidade migrada de BEASTS para BOYZ, preservando a estrutura, navegação e funcionamento do site anterior e substituindo a linguagem visual por uma direção soft-luxury / it-boy.
 
-Páginas: index.html, lore.html, concept.html, rules.html, application.html.
-A Home apresenta a experiência; Lore, Concept e Rules possuem conteúdo completo em páginas próprias; The Application usa o fluxo de 10 perguntas e coleta os dados básicos ao final.
+Marca principal: boyz
+Tom: pretty, popular, problematic.
+Paleta: Ice Blue, Sand, Frosted Lavender, Silver, White, Dual Tone, Black & Ice.
+Tipografia da marca: Ballet / Allura; textos editoriais: Cormorant Garamond; interface: Inter.
 
-As inscrições ainda não estão conectadas a um serviço externo/backend. A interface está pronta para essa integração.
+Estrutura: Home, Lore, Concept, The Boyz, The Archive, Rules, Recruitment/Application.
+Hierarquia em transição: New Boyz, Boyz, Alphas e Circle.
 
-Assets oficiais: assets/beasts-official-logo.png e assets/beasts-b-icon.png.
+Nota: os assets antigos da marca BEASTS foram retirados da apresentação principal. O wordmark e o ícone agora são tipográficos para manter o mesmo "b" da própria palavra boyz.

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360">
+<rect x="18" y="18" width="324" height="324" rx="162" fill="#111625"/>
+<circle cx="180" cy="180" r="145" fill="none" stroke="#f7f6f4" stroke-opacity=".3"/>
+<text x="180" y="250" text-anchor="middle" font-family="Ballet, Allura, 'Brush Script MT', cursive" font-size="230" fill="#f7f6f4">b</text>
+<path d="M180 55l6 18 19 7-19 6-6 19-6-19-19-6 19-7z" fill="#e7f1f7"/>
+</svg>

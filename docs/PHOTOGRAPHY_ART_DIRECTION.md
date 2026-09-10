@@ -1,15 +1,15 @@
-# BEASTS ,  PHOTOGRAPHY & ART DIRECTION
+# BOYZ ,  PHOTOGRAPHY & ART DIRECTION
 ## V3.3
 
-> **BEASTS não precisa mostrar tudo. Precisa mostrar o que importa.**
+> **BOYZ não precisa mostrar tudo. Precisa mostrar o que importa.**
 
 Este documento define como a fotografia funciona no site sem prender os membros a um único estilo visual.
 
 ## 01 ,  PRINCÍPIO
 
-Não existe um “filtro BEASTS” obrigatório.
+Não existe um “filtro BOYZ” obrigatório.
 
-Um Beast pode aparecer em uma fotografia:
+Um Boy pode aparecer em uma fotografia:
 - editorial;
 - espontânea;
 - engraçada;
@@ -25,9 +25,9 @@ A pergunta não é “essa foto parece uma campanha de moda?”.
 
 A pergunta é:
 
-> **Essa foto acrescenta alguma coisa à presença daquele Beast ou à história dos BEASTS?**
+> **Essa foto acrescenta alguma coisa à presença daquele Boy ou à história dos BOYZ?**
 
-## 02 ,  THE BEASTS
+## 02 ,  THE BOYZ
 
 ### Função
 Apresentar pessoas. Não vender uma estética única.
@@ -50,11 +50,11 @@ A foto pode ser:
 - conceitual.
 
 ### Regra
-A personalidade do Beast tem prioridade sobre a uniformidade visual.
+A personalidade do Boy tem prioridade sobre a uniformidade visual.
 
 ## 03 ,  PERFIL INDIVIDUAL
 
-Cada Beast poderá ter uma página própria.
+Cada Boy poderá ter uma página própria.
 
 Estrutura:
 1. fotografia principal;
@@ -99,7 +99,7 @@ Pode mostrar 3.
 
 ## 05 ,  EDITORIAIS
 
-Quando houver ensaio produzido especificamente para BEASTS:
+Quando houver ensaio produzido especificamente para BOYZ:
 - imagem grande;
 - poucas palavras;
 - muito espaço negativo;
@@ -127,7 +127,7 @@ A identidade cromática do site vem do ambiente, não de um filtro aplicado sobr
 - saturação artificial;
 - transformar todas as pessoas em parte de uma mesma “paleta”.
 
-**A moldura é BEASTS. A fotografia continua sendo de cada Beast.**
+**A moldura é BOYZ. A fotografia continua sendo de cada Boy.**
 
 ## 07 ,  CORTES & FORMATOS
 
@@ -193,7 +193,7 @@ Antes de publicar qualquer foto, perguntar:
 
 - Essa foto tem personalidade?
 - Ela acrescenta alguma coisa?
-- Ela representa aquele Beast ou aquele momento?
+- Ela representa aquele Boy ou aquele momento?
 - Existe uma intenção clara?
 - Estamos mostrando demais?
 - A apresentação está à altura da foto?

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#8999a8"/><stop offset=".28" stop-color="#fff"/><stop offset=".5" stop-color="#b8c6d2"/><stop offset=".72" stop-color="#fff"/><stop offset="1" stop-color="#7e8d9c"/></linearGradient></defs>
+<rect width="1200" height="360" fill="none"/>
+<text x="600" y="245" text-anchor="middle" font-family="Ballet, Allura, 'Brush Script MT', cursive" font-size="250" fill="url(#g)">boyz</text>
+<path d="M840 85l5 14 15 5-15 5-5 15-5-15-15-5 15-5z" fill="#fff"/>
+</svg>

@@ -1,8 +1,8 @@
-BEASTS | THE APPLICATION
+BOYZ | THE APPLICATION
 Web3Forms integration
 
 The candidate-facing application remains entirely inside application.html.
-The form submits asynchronously to Web3Forms and keeps the BEASTS visual experience.
+The form submits asynchronously to Web3Forms and keeps the BOYZ visual experience.
 
 Access key is embedded client-side because Web3Forms access keys are public keys.
 Do not replace the key unless the Web3Forms form is changed.

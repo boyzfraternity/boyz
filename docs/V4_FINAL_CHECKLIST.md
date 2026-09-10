@@ -1,4 +1,4 @@
-# BEASTS ,  V4.0 COMPLETE
+# BOYZ ,  V4.0 COMPLETE
 
 Consolidação do site após as etapas V3.3.
 
@@ -6,7 +6,7 @@ Consolidação do site após as etapas V3.3.
 - Hero com logo oficial.
 - Navbar fixa com B oficial.
 - Menu mobile.
-- Filosofia, Who We Are, Lore, Standard, The Beasts, Archive, Rules, Recruitment e Application.
+- Filosofia, Who We Are, Lore, Standard, The Boyz, Archive, Rules, Recruitment e Application.
 - Direção fotográfica preparada para receber fotos reais sem filtro obrigatório.
 - Perfis editoriais de Joe Hills e Loy Hills.
 - Overlay editorial para perfil, lore e regras.
@@ -18,7 +18,7 @@ Consolidação do site após as etapas V3.3.
 - Layout responsivo desktop/tablet/mobile.
 
 ## Conteúdo deliberadamente vazio
-- Fotos reais dos Beasts.
+- Fotos reais dos Boyz.
 - Memórias do Archive.
 - Novos membros.
 
